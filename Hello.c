@@ -1,6 +1,10 @@
 #include<iostream>
 using namespace std;
-int main(){
+void hello()
+{
 	printf("Hello World");
+}
+int main(){
+	hello()
 	return 0;
 }
