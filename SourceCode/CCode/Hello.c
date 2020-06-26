@@ -11,7 +11,11 @@ voif fun1(){
 	printf("fdbu");
 }
 void fun2(){
+<<<<<<< HEAD:SourceCode/CCode/Hello.c
 	printf("We are in master branch");
+=======
+	printf("We are in Testing branch");
+>>>>>>> Testing:SourceCode/Hello.c
 }
 int main(){
 	hello()
