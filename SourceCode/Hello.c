@@ -5,7 +5,10 @@ void hello()
 	printf("Hello World");
 }
 void fun(){
-	printf("ayush bansal")
+	printf("ayush bansal");
+}
+voif fun1(){
+	printf("fdbu");
 }
 int main(){
 	hello()
